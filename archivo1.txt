@@ -1,4 +1,8 @@
 Hola mundo 1
 EDITADO
+<<<<<<< HEAD
 
 Archivo Editado por ErikaG
+=======
+CREANDO UN CONFLICTO --> IVÁN
+>>>>>>> 4f049068f67bc5a7bafd8a6ffe0b2b8a384936e4
